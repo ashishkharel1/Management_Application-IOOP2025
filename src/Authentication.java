@@ -6,6 +6,6 @@ public class Authentication{
 
 	//sign-up method
 	public static void SignUp(){
-		System.out.println("lol");
+		System.out.println("lol");  //test123
 	}
 }
